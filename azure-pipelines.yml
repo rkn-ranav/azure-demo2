@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: ubuntu-latest
+  HomePC: RANAV
 
 steps:
 - task: NodeTool@0
